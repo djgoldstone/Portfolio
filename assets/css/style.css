@@ -64,7 +64,7 @@ p {
 }
 #contact-section {
     padding-top: 100px;
-    padding-bottom: 100px;
+    /* padding-bottom: 100px; */
 }
 .navbar {
     overflow: visible;
@@ -76,7 +76,9 @@ p {
 #footer-text {
     font-size: 8px;
 }
-
+#foot {
+    margin-top: 100px;
+}
 @media (min-width: 1200px) {
 
 }
