@@ -2,13 +2,13 @@
 
 ___
 
-The Bootstrap-Portfolio assignment involved recreating the basic portfolio formatting with bootstrap formatting. This particular webpage made use of Bootstrap's navbar, jumbotron, card deck, and form featured layouts. The grid system was utilized via column sizing in order to create a responsive layout. All images displayed on the index and portfolio pages make use of responsive images via bootstrap's img-fluid feature.  
+This portfolio makes use of Bootstrap's navbar, jumbotron, card deck, and form featured layouts. The grid system was utilized via column sizing in order to create a responsive layout. All images displayed on the index page make use of responsive images via bootstrap's img-fluid feature.  
 
 ### Design
 
 ---
 
-Our front-end design was meant to spark user interest and interactivity. The design highlights binary user choice, limiting user options, and providing a smaller scope allowing for quicker, more conscise decisions. Our intent for this design choice was to prevent the user from being indundated from too many choices and to aid those in our generation who suffer from "analysis-paralysis".
+The Google Fonts library provided custom font styling using "Press Start 2P".
 
 ## Built With
 
