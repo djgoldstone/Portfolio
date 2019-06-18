@@ -1,0 +1,106 @@
+body {
+    margin: 0 auto;
+    background-image: url(../images/memphis-mini.png);
+    padding-top: 50px; 
+    font-family: 'Press Start 2P', cursive;
+}
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    margin-left: 160px;
+    font-family: 'Press Start 2P', cursive;
+}
+h1 {
+    color: #4aaaa5;
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+p {
+    color: #777777;
+    font-size: 14px;
+    font-family: 'Press Start 2P', cursive;
+}
+.lead {
+    font-size: 14px;
+    text-align: center;
+}
+.intro {
+    font-size: 14px;
+}
+#list-header {
+    background-color: #4aaaa5;
+}
+#header-style {
+    padding-bottom: 0%;
+}
+#header-text {
+    color: white;
+}
+.jumbotron {
+    background-image: url(../images/memphis-mini.png);
+    margin-bottom: -20px;
+}
+.j-tron {
+    background-image: url("../images/computer-background.jpg");
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 450px;
+    text-align: center;
+}
+.form {
+    padding-right: 200px
+}
+.jumbo {
+    margin-bottom: -50px;
+    padding-top: 20px;
+}
+.footer {
+    padding-top: 75px;
+}
+.card-img-top {
+    width: 538px;
+    height: 175px;
+}
+#contact-section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.navbar {
+    overflow: visible;
+}
+#lang-icons {
+    height: 30px;
+    width: 30px;
+}
+#footer-text {
+    font-size: 8px;
+}
+
+@media (min-width: 1200px) {
+
+}
+@media (min-width: 992px) {
+
+}
+@media (min-width: 768px) {
+    .card-title {
+        font-size: 14px;
+    }
+    .list-group-item {
+        font-size: 14px;
+    }
+}
+@media (min-width: 544px) {  
+    h1 {font-size:1.5rem;}
+    p {font-size:1.5rem} 
+    .card-title {
+        font-size: 12px;
+    }
+    .card-text {
+        font-size: 12px;
+    }
+    .list-group-item {
+        font-size: 10px;
+    }
+}
