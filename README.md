@@ -29,7 +29,7 @@ ___
 ![Portfolio](/assets/images/screenshots/portfolio-screenshot.png)
 ![Contact](/assets/images/screenshots/contact-screenshot.png)
 
-[Sip First deployed page](https://github.com/djgoldstone/Portfolio)
+[Portfolio deployed page](https://github.com/djgoldstone/Portfolio)
 
 ___
 
