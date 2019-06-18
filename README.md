@@ -20,7 +20,7 @@ ___
 * [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 * [Google Fonts](https://developers.google.com/fonts/)
 
-![Commits](/assets/images/screenshots/commit-graph.png)
+![Commits](/assets/images/screenshots/commits-graph.png)
 ![Graph](/assets/images/screenshots/graph-percentage.png)
 ___
 
